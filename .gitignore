@@ -1,0 +1,13 @@
+﻿# 测试用文件
+test.ipynb
+
+# python附件
+__pycache__/
+*.pyc
+
+# 数据
+data/
+
+# 配置
+config/
+.vscode/
