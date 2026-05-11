@@ -1,9 +1,14 @@
-﻿# 测试用文件
+# 测试文件
+test_*.py
 test.ipynb
+_test_*/
 
-# python附件
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pkl
+*.pt
 
 # 数据
 data/
@@ -11,3 +16,9 @@ data/
 # 配置
 config/
 .vscode/
+
+# IDE
+.idea/
+
+# 计划
+ARCHITECTURE_PLAN.md
